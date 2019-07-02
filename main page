@@ -1,0 +1,43 @@
+!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Thimble Sample</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  
+  <body>
+    <h1>Mrs. D's Art Classes</h1>
+    <div class = "links">
+      <p>
+       Rocky Mount!
+      </p>
+      <a href="game/index.html">Pre k's art</a>
+      <a href = "quiz/index.html">Kindergarden's Art</a>
+      <a href = ""> 1st grade art </a>
+      <a href = ""> 2nd grade </a>
+      <a href = ""> 3rd grade </a>
+      <a href = ""> 4th grade </a>
+      <a href = ""> 5th grade </a>
+      
+      <img src ="https://cdn.glitch.com/8053b0e2-23d8-4d4b-9aa1-2456886febe7%2Fflower.jpg?v=1561642941398"/>
+      
+      <p>
+      Calloway!
+      </p>
+      <h3>
+        These are the controls for my game...
+      </h3>
+      <ul class="lists">
+        <li>Use the arrow keys on the screen or on the keyboard to move the ship</li>
+      </ul>
+    </div>
+     
+     
+     
+             
+ 
+  </body>
+  
+</html>
